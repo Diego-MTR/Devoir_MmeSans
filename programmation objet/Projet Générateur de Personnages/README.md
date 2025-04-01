@@ -76,17 +76,3 @@ System.out.println(Party.simulateCombat(thief, enhancedThief));
 3. Configurez le SDK Java 20 dans les paramètres du projet.
 4. Exécutez la classe `Main` pour tester les fonctionnalités.
 
-## Contribution
-Les contributions sont les bienvenues ! Veuillez suivre les étapes suivantes :
-1. Forkez le dépôt.
-2. Créez une branche pour vos modifications :
-   ```bash
-   git checkout -b feature/nom-de-la-fonctionnalite
-   ```
-3. Faites vos modifications et soumettez une pull request.
-
-## Auteur
-- **Diego MTR** : Étudiant en programmation orientée objet.
-
-## Licence
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d'informations.
