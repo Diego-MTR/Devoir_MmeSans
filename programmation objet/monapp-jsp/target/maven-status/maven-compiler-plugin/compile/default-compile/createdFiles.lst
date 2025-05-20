@@ -1,0 +1,12 @@
+filter\AuthFilter.class
+controller\LoginServlet.class
+model\dao\Database.class
+model\dao\MatiereDAO.class
+controller\LogoutServlet.class
+model\Matiere.class
+controller\CompteServlet.class
+controller\MatiereServlet.class
+model\dao\CompteDAO.class
+model\Compte.class
+controller\ProfilServlet.class
+controller\RegisterServlet.class
