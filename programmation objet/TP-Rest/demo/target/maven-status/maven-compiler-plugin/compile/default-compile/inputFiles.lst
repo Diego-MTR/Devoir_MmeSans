@@ -1,0 +1,11 @@
+C:\Users\diego\OneDrive\BACHELOR\Cours\Devoir MmeSans\programmation objet\TP-Rest\demo\src\main\java\com\example\demo\controller\AuthController.java
+C:\Users\diego\OneDrive\BACHELOR\Cours\Devoir MmeSans\programmation objet\TP-Rest\demo\src\main\java\com\example\demo\controller\CoursController.java
+C:\Users\diego\OneDrive\BACHELOR\Cours\Devoir MmeSans\programmation objet\TP-Rest\demo\src\main\java\com\example\demo\CoursApiApplication.java
+C:\Users\diego\OneDrive\BACHELOR\Cours\Devoir MmeSans\programmation objet\TP-Rest\demo\src\main\java\com\example\demo\model\Cours.java
+C:\Users\diego\OneDrive\BACHELOR\Cours\Devoir MmeSans\programmation objet\TP-Rest\demo\src\main\java\com\example\demo\model\User.java
+C:\Users\diego\OneDrive\BACHELOR\Cours\Devoir MmeSans\programmation objet\TP-Rest\demo\src\main\java\com\example\demo\repository\CoursRepository.java
+C:\Users\diego\OneDrive\BACHELOR\Cours\Devoir MmeSans\programmation objet\TP-Rest\demo\src\main\java\com\example\demo\repository\UserRepository.java
+C:\Users\diego\OneDrive\BACHELOR\Cours\Devoir MmeSans\programmation objet\TP-Rest\demo\src\main\java\com\example\demo\security\JwtAuthFilter.java
+C:\Users\diego\OneDrive\BACHELOR\Cours\Devoir MmeSans\programmation objet\TP-Rest\demo\src\main\java\com\example\demo\security\JwtService.java
+C:\Users\diego\OneDrive\BACHELOR\Cours\Devoir MmeSans\programmation objet\TP-Rest\demo\src\main\java\com\example\demo\security\SecurityConfig.java
+C:\Users\diego\OneDrive\BACHELOR\Cours\Devoir MmeSans\programmation objet\TP-Rest\demo\src\main\java\com\example\demo\security\UserDetailsServiceImpl.java
