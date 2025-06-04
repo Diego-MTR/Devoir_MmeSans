@@ -1,0 +1,28 @@
+<web-app>
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>controller.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/login</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>MatiereServlet</servlet-name>
+    <servlet-class>controller.MatiereServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MatiereServlet</servlet-name>
+    <url-pattern>/matiere</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>CompteServlet</servlet-name>
+    <servlet-class>controller.CompteServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CompteServlet</servlet-name>
+    <url-pattern>/compte</url-pattern>
+  </servlet-mapping>
+</web-app>
